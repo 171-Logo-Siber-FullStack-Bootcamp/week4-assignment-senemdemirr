@@ -5,6 +5,8 @@ Separation of the bsadmin template to components with vue
 Bsadmin verilen düz html css şablonun vue'de bileşenlere ayrılması  ,
 
 
+[LİVE DEMO](https://focused-hopper-040faa.netlify.app/)
+
 ##  Teknolojiler
 --node.js
 
@@ -44,4 +46,3 @@ npm run serve
 
 ```
 
-[LİVE DEMO](https://focused-hopper-040faa.netlify.app/)
