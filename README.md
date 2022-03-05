@@ -7,8 +7,11 @@ Bsadmin verilen düz html css şablonun vue'de bileşenlere ayrılması  ,
 
 ##  Teknolojiler
 --node.js
+
 --vue.js
+
 --js
+
 --bootstrap
 
 ## Kurulum
@@ -16,7 +19,6 @@ Bsadmin verilen düz html css şablonun vue'de bileşenlere ayrılması  ,
 ```sh
 git clone https://github.com/171-Logo-Siber-FullStack-Bootcamp/week4-assignment-senemdemirr.git
 cd week4-assigment-senemdemirr
-cd vue-project
 npm i
 npm run serve
 ```
@@ -41,3 +43,5 @@ npm run serve
     └── main.js
 
 ```
+
+[LİVE DEMO](https://focused-hopper-040faa.netlify.app/)
